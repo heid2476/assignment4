@@ -1,0 +1,8 @@
+ip-172-31-17-241.us-west-2.compute.internal
+{
+  "Code" : "Success",
+  "LastUpdated" : "2016-10-04T00:00:13Z",
+  "InstanceProfileArn" : "arn:aws:iam::977179680209:instance-profile/S3-full-access",
+  "InstanceProfileId" : "AIPAJ2DHDZCDFLS5KLYVM"
+}
+webservers
